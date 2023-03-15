@@ -1,0 +1,12 @@
+G:\Group Project GitHub\Blazor\HumanResourcesInformationSystem\HRIS\Shared\bin\Debug\net6.0\HRIS.Shared.deps.json
+G:\Group Project GitHub\Blazor\HumanResourcesInformationSystem\HRIS\Shared\bin\Debug\net6.0\HRIS.Shared.dll
+G:\Group Project GitHub\Blazor\HumanResourcesInformationSystem\HRIS\Shared\bin\Debug\net6.0\HRIS.Shared.pdb
+G:\Group Project GitHub\Blazor\HumanResourcesInformationSystem\HRIS\Shared\obj\Debug\net6.0\HRIS.Shared.csproj.AssemblyReference.cache
+G:\Group Project GitHub\Blazor\HumanResourcesInformationSystem\HRIS\Shared\obj\Debug\net6.0\HRIS.Shared.GeneratedMSBuildEditorConfig.editorconfig
+G:\Group Project GitHub\Blazor\HumanResourcesInformationSystem\HRIS\Shared\obj\Debug\net6.0\HRIS.Shared.AssemblyInfoInputs.cache
+G:\Group Project GitHub\Blazor\HumanResourcesInformationSystem\HRIS\Shared\obj\Debug\net6.0\HRIS.Shared.AssemblyInfo.cs
+G:\Group Project GitHub\Blazor\HumanResourcesInformationSystem\HRIS\Shared\obj\Debug\net6.0\HRIS.Shared.csproj.CoreCompileInputs.cache
+G:\Group Project GitHub\Blazor\HumanResourcesInformationSystem\HRIS\Shared\obj\Debug\net6.0\HRIS.Shared.dll
+G:\Group Project GitHub\Blazor\HumanResourcesInformationSystem\HRIS\Shared\obj\Debug\net6.0\refint\HRIS.Shared.dll
+G:\Group Project GitHub\Blazor\HumanResourcesInformationSystem\HRIS\Shared\obj\Debug\net6.0\HRIS.Shared.pdb
+G:\Group Project GitHub\Blazor\HumanResourcesInformationSystem\HRIS\Shared\obj\Debug\net6.0\ref\HRIS.Shared.dll

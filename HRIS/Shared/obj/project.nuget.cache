@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EjdIEWvIiQqSwMmnYfD9jDbs7fzsC/zYmPjFMEPZ6pOcvEZz6IrXmac5j9nRWsW2r1JcA4thawcr1NThdT9i/Q==",
+  "success": true,
+  "projectFilePath": "G:\\Group Project GitHub\\Blazor\\HumanResourcesInformationSystem\\HRIS\\Shared\\HRIS.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
